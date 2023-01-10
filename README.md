@@ -1,1 +1,1 @@
-Simple shell Project for a group of two
+A C Project on shell
